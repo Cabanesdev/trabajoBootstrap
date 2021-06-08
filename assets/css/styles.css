@@ -1,0 +1,27 @@
+.table {
+	border: 1px solid #dee2e6;
+	width: 50%;
+	margin: 0 auto;
+	margin-bottom: 100px;
+}
+
+#myInput {
+	width: 50%;
+	margin: 0 auto;
+}
+
+#btnConocenos > a {
+	color: rgb(245, 245, 245);
+}
+
+#btnConocenos:hover {
+	background-color: #2e79a896;
+}
+
+#btnContactanos:hover {
+	background-color: #098fe1;
+}
+
+#btnContactanos:hover > a {
+	color: white;
+}
